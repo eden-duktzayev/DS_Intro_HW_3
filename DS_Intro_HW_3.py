@@ -24,7 +24,7 @@ def read_line(n,file):
                         x=word
                         break
         return x
-123456789
+
 #QB:
 def longest_words(file):
     try:
